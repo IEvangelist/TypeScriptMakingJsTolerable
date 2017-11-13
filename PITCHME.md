@@ -8,7 +8,7 @@
 > JavaScript was originally developer in 10 days by Brenden Eich
 ---
 ## That Explains a Lot
-![Face Palm](assets/face-palm.gif)
+![](assets/face-palm.gif)
 ---
 ## Why
 
