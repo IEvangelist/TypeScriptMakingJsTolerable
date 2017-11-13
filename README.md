@@ -1,3 +1,3 @@
 # TypeScript
 ### Making JavaScript Tolerable
-[Slides](https://gitpitch.com/ievangelist/TypeScriptMakingJsTolerable#/)
+<a href="https://gitpitch.com/ievangelist/TypeScriptMakingJsTolerable#/" target="_blank">Slides</a>
