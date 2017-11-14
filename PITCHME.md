@@ -11,6 +11,7 @@
 ---?image=assets/face-palm.gif&size=auto 90%
 ---
 # Why
+---
 <img src="assets/reddit.png" height="180" />
 - Must have types
 - Powers major production apps
