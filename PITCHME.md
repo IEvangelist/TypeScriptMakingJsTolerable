@@ -1,5 +1,5 @@
-# TypeScript
-### Making <span class="orange">JavaScript</span> Tolerable
+---?image=assets/ts-main.png&size=contain
+### Making JavaScript Tolerable
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 ---
 # What
