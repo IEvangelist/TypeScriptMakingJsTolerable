@@ -1,8 +1,9 @@
 ---?image=assets/ts-main.png&size=contain
 <br/>
 <br/>
-### Making JavaScript Tolerable
-<strong>[@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)</strong>
+[@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
+<br/>
+## <span style="font-weight: bold; color: red">Making JavaScript Tolerable</span>
 ---
 # What
 ---
