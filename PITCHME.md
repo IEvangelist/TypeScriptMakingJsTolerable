@@ -16,7 +16,7 @@
 ## TypeScript
 - October, 2012 (17 years after JavaScript)
 - Anders Hejlsberg
-  - $1,000,000 siging bonus with Microsoft
+  - $1,000,000 signing bonus with Microsoft
 ---
 # Why
 ---
