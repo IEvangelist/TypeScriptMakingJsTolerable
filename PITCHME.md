@@ -42,6 +42,15 @@ console.log(b)         // "MDN"
 > JavaScript was intended for 100 to 1,000 lines of code. Now with regularity, applications are 100,000 to 1,000,000 lines of code!
 > -- <cite>Anders Hejlsberg</cite>
 ---
+## TypeScript
+- A typed superset of JavaScript that transpiles to JavaScript
+- TypeScript files have the *.ts file extension
+- Backwards compatibility to ECMAScript 3
+- Any browser, any host, and OS
+- Modern (Node.js and Visual Studio/Code Tooling)
+- Open Source
+- Supports latest JavaScript features
+---
 ## JavaScript was simply not designed to scale!!
 ---?image=assets/only-you-can-prevent-js.jpg&size=contain
 ---?image=assets/demo.png&size=contain
