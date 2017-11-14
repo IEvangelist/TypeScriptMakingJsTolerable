@@ -31,6 +31,8 @@ this.b = "MDN";
 console.log(window.b)  // "MDN"
 console.log(b)         // "MDN"
 ```
+---?image=assets/new sheriff.jpg&size=contain
+---
 ---
 ## TypeScript
 - October, 2012 (17 years after JavaScript)
