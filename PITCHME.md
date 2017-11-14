@@ -3,7 +3,7 @@
 <br/>
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 <br/>
-## <span style="font-weight: bold; color: orange">Making JavaScript Tolerable</span>
+## <span style="font-weight: bold; color: orange; text-shadow: 0px 0px 20px #777;">Making JavaScript Tolerable</span>
 ---
 # What
 > What is TypeScript anyways?
@@ -60,7 +60,7 @@ console.log(b)         // "MDN"
 ---
 <img src="assets/angular.png" height="180" />
 > TypeScript Makes Code Easier to Read and Understand 
-
+ 
 [Victor Savkin](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)
 ---
 <img src="assets/slack.png" height="180" />
@@ -99,7 +99,6 @@ console.log(b)         // "MDN"
 - See source
 - Post issues
 - Propose new features
----?image=assets/wat.gif&size=contain
 ---
 ## 2. Type System
 - Basic Types
@@ -169,4 +168,3 @@ enum DayOfWeek {
 <img src="assets/me.jpg" height="325" />
 <br/>
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
----
