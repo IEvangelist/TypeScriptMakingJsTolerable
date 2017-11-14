@@ -44,7 +44,6 @@ console.log(b)         // "MDN"
 ---
 # JavaScript was simply not designed to scale!!
 ---?image=assets/only-you-can-prevent-js.jpg&size=contain
----
 ---?image=assets/demo.png&size=contain
 # Demo
 ---
