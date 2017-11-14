@@ -46,7 +46,7 @@ class Types {
     trueOrFalse: boolean = true;
     message: string = "Hi there";
     value: number = 7;
-    tuple: [string, number, Date] = ["David", 32, new Date(1984, 7, 7)];
+    tuple: [string, Date] = ["David", new Date(1984, 7, 7)];
     children: Types[] = [];
     nothing = null;
     nonExistent = undefined;
