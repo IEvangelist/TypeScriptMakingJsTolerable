@@ -18,6 +18,9 @@
 - Anders Hejlsberg
   - $1,000,000 signing bonus with Microsoft
 ---
+> JavaScript was intended for 100 to 1,000 lines of code. Now with regularity, applications are 100,000 to 1,000,000 lines of code!
+> -- <cite>Anders Hejlsberg</cite>
+---
 # Why
 ---
 <img src="assets/reddit.png" height="180" />
