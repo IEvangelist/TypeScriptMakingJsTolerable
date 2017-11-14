@@ -7,7 +7,11 @@
 ## JavaScript
 > JavaScript was originally developer in 10 days by Brenden Eich
 ---
-## That Explains a Lot
+### JavaScript
+- Appeared in May, 1995
+- Dynamic, untyped and interpreted langauge
+- Worlds 3rd most popular programming language (Java and SQL)
+---
 ---?image=assets/face-palm.gif&size=auto 90%
 ---
 # Why
