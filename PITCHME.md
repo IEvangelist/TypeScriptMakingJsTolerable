@@ -38,5 +38,17 @@
 [Felix Rieseberg](https://slack.engineering/typescript-at-slack-a81307fa288d)
 ---
 
-## How
+# How
 ---
+## Types
+```typescript
+class Types {
+    trueOrFalse: boolean = true;
+    message: string = "Hi there";
+    value: number = 7;
+    tuple: [string, number, Date] = ["David", 32, new Date(1984, 7, 7)];
+    children: Types[] = [];
+    nothing = null;
+    nonExistent = undefined;
+}
+```
