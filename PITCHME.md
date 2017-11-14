@@ -11,13 +11,13 @@
 ---?image=assets/face-palm.gif&size=auto 90%
 ---
 ## Why
----?image=assets/reddit.png&size=auto 90%
+---?image=assets/reddit.png&size=auto 25%
 > Must have types. Powers major production apps. Our devs should be able to onboard fairly quickly.
 https://redditblog.com/2017/06/30/why-we-chose-typescript/
----?image=assets/angular.png&size=auto 90%
+---?image=assets/angular.png&size=auto 25%
 > TypeScript Makes Code Easier to Read and Understand 
 https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8
----?image=assets/slack.png&size=auto 90%
+---?image=assets/slack.png&size=auto 25%
 > A smart static type checker increases our confidence in our code, catches easily made mistakes before they are committed, and makes the code base more self-documenting.
 https://slack.engineering/typescript-at-slack-a81307fa288d
 ---
