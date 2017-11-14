@@ -67,7 +67,8 @@ console.log(b)         // "MDN"
 
 [Felix Rieseberg](https://slack.engineering/typescript-at-slack-a81307fa288d)
 ---
-
+# Top 5 Reasons
+---
 ## 5. Compatibility
 >JavaScript is standardized through the ECMAScript standards, unfortunately not all browsers in use support all features of newer ECMAScript standards
 ---?image=assets/feature-gap.jpg&size=contain
