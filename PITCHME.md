@@ -69,8 +69,12 @@ JavaScript was simply not designed to scale!!
 
 ## 5. Compatibility
 
----?image=assets/tools.png&size=contain
 ## 4. Tooling
+> TypeScript's language services are a first class citizen
+- Statement Completion
+- Refactoring
+- Immediate Feedback-Loop
+---?image=assets/tools.png&size=contain
 ---
 
 ## 3. Open Source
