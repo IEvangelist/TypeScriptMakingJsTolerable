@@ -13,6 +13,20 @@
 - Dynamic, untyped and interpreted langauge
 - Worlds 3rd most popular programming language (Java and SQL)
 ---
+## JavaScript `this`
+Example from [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+```javascript
+// In web browsers, the window object is also the global object:
+console.log(this === window); // true
+
+a = 37;
+console.log(window.a); // 37
+
+this.b = "MDN";
+console.log(window.b)  // "MDN"
+console.log(b)         // "MDN"
+```
+---
 ## TypeScript
 - October, 2012 (17 years after JavaScript)
 - Anders Hejlsberg
