@@ -156,8 +156,9 @@ enum DayOfWeek {
 ```
 ---?image=assets/demo.png&size=contain
 # Demo
----?image=assets/file-extensions.png&size=contain
+---
 # File Extensions
+---?image=assets/file-extensions.png&size=contain
 ---
 # Thank you
 <img src="assets/me.jpg" height="325" />
