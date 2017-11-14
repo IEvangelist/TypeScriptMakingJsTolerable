@@ -42,7 +42,7 @@ console.log(b)         // "MDN"
 > JavaScript was intended for 100 to 1,000 lines of code. Now with regularity, applications are 100,000 to 1,000,000 lines of code!
 > -- <cite>Anders Hejlsberg</cite>
 ---
-JavaScript was simply not designed to scale!!
+# JavaScript was simply not designed to scale!!
 ---?image=assets/demo.png&size=contain
 # Demo
 ---
