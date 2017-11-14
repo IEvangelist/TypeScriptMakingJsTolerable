@@ -162,6 +162,9 @@ enum DayOfWeek {
 # File Extensions
 ---?image=assets/file-extensions.png&size=contain
 ---
+# Adoption
+---?image=assets/adoption.png&size=contain
+---
 # Thank you
 <img src="assets/me.jpg" height="325" />
 <br/>
