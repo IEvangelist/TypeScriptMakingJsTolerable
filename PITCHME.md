@@ -23,6 +23,9 @@
 ---
 JavaScript was simply not designed to scale!!
 ---
+---?image=assets/demo.png&size=auto 90%
+# Demo
+---
 # Why
 ---
 <img src="assets/reddit.png" height="180" />
