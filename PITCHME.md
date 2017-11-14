@@ -2,24 +2,28 @@
 ### Making JavaScript Tolerable
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 ---
-## What
+# What
 ---
-### JavaScript
+## JavaScript
 > JavaScript was originally developer in 10 days by Brenden Eich
 ---
 ## That Explains a Lot
 ---?image=assets/face-palm.gif&size=auto 90%
 ---
-## Why<
-<img src="assets/reddit.png" height="200" />
-> Must have types. Powers major production apps. Our devs should be able to onboard fairly quickly.
-https://redditblog.com/2017/06/30/why-we-chose-typescript/
+# Why
+<img src="assets/reddit.png" height="180" />
+- Must have types
+- Powers major production apps
+- Our devs should be able to onboard fairly quickly
+
+[Niranjan Ramadas](https://redditblog.com/2017/06/30/why-we-chose-typescript/)
 ---
-<img src="assets/angular.png" height="200" />
+<img src="assets/angular.png" height="180" />
 > TypeScript Makes Code Easier to Read and Understand 
-https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8
+
+[Victor Savkin](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)
 ---
-<img src="assets/slack.png" height="200" />
+<img src="assets/slack.png" height="180" />
 > A smart static type checker increases our confidence in our code, catches easily made mistakes before they are committed, and makes the code base more self-documenting.
 
 [Felix Rieseberg](https://slack.engineering/typescript-at-slack-a81307fa288d)
