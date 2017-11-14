@@ -68,9 +68,10 @@ JavaScript was simply not designed to scale!!
 ---
 
 ## 5. Compatibility
-
+---
 ## 4. Tooling
 > TypeScript's language services are a first class citizen
+
 - Statement Completion
 - Refactoring
 - Immediate Feedback-Loop
