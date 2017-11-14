@@ -1,5 +1,5 @@
 # TypeScript
-### Making JavaScript Tolerable
+### Making <span class="orange">JavaScript</span> Tolerable
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 ---
 # What
@@ -45,28 +45,26 @@ JavaScript was simply not designed to scale!!
 [Felix Rieseberg](https://slack.engineering/typescript-at-slack-a81307fa288d)
 ---
 
-## 5)
-Compatibility
+## 5. Compatibility
 
 ---
 
-## 4)
-Tooling
+## 4. Tooling
 
 ---
 
-## 3)
-Open Source
+## 3. Open Source
 ![](assets/github-logo.png)
+- See source
+- Post issues
+- Propose new features
 ---
 
-## 2)
-Type System
+## 2. Type System
 
 ---
 
-## 1)
-Compile Errors
+## 1. Compilation
 
 ---
 
