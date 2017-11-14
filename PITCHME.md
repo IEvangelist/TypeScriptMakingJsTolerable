@@ -36,6 +36,8 @@ console.log(b)         // "MDN"
 ---
 ## TypeScript
 - October, 2012 (17 years after JavaScript)
+- A superset of JavaScript
+  - Any valid JS is also valid TS
 - Anders Hejlsberg
   - $1,000,000 signing bonus with Microsoft
 ---
@@ -43,7 +45,6 @@ console.log(b)         // "MDN"
 > -- <cite>Anders Hejlsberg</cite>
 ---
 ## TypeScript
-- A typed superset of JavaScript that transpiles to JavaScript
 - TypeScript files have the *.ts file extension
 - Backwards compatibility to ECMAScript 3
 - Any browser, any host, and OS
