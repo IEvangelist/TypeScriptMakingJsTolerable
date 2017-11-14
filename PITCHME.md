@@ -48,6 +48,18 @@ JavaScript was simply not designed to scale!!
 
 # How
 ---
+## Interface & Class
+```typepscript
+interface Foo {
+    nonsense(): string;
+}
+
+class Bar implements Foo {
+    nonsense(): string {
+        return "Hello, WI .NET User Group!";
+    }
+}
+```
 ## Types
 ```typescript
 class Types {
@@ -58,5 +70,17 @@ class Types {
     children: Types[] = [];
     nothing = null;
     nonExistent = undefined;
+}
+```
+## Enum
+```typescript
+enum DayOfWeek {
+    Sunday,
+    Monday,
+    Tuesday,
+    Wednesday,
+    Thursday,
+    Friday,
+    Saturday
 }
 ```
