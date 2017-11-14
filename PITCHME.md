@@ -46,6 +46,7 @@ console.log(b)         // "MDN"
 ---?image=assets/only-you-can-prevent-js.jpg&size=contain
 ---?image=assets/demo.png&size=contain
 # Demo
+---?image=assets/a-cure-for-the-common.jpg&size=contain
 ---
 # Why
 > Why should I care about TypeScript?
@@ -112,6 +113,7 @@ console.log(b)         // "MDN"
 ## 1. Compilation
 ---?image=assets/demo.png&size=contain
 # Demo
+---?image=assets/steady-now.jpg&size=contain
 ---
 # How
 > How can I use TypeScript?
