@@ -101,7 +101,12 @@ console.log(b)         // "MDN"
 ---
 
 ## 2. Type System
-
+- Basic Types
+- Advanced Types
+- Classes, Interfaces and Abstract classes
+- `Generics<T, TResult>`
+- Type Assertions, Type Guards and Type Aliases
+- Polymorphic `this`
 ---
 
 ## 1. Compilation
