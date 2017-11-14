@@ -45,6 +45,32 @@ JavaScript was simply not designed to scale!!
 [Felix Rieseberg](https://slack.engineering/typescript-at-slack-a81307fa288d)
 ---
 
+## 5)
+Compatibility
+
+---
+
+## 4)
+Tooling
+
+---
+
+## 3)
+Open Source
+![](assets/github-logo.png)
+---
+
+## 2)
+Type System
+
+---
+
+## 1)
+Compile Errors
+
+---
+
+
 # How
 ---
 ## Interface & Class
