@@ -6,14 +6,17 @@
 ---
 ## JavaScript
 > JavaScript was originally developer in 10 days by Brenden Eich
+---?image=assets/face-palm.gif&size=auto 90%
 ---
-### JavaScript
+## JavaScript
 - Appeared in May, 1995
 - Dynamic, untyped and interpreted langauge
 - Worlds 3rd most popular programming language (Java and SQL)
 ---
----?image=assets/face-palm.gif&size=auto 90%
----
+## TypeScript
+- October, 2012 (17 years after JavaScript)
+- Anders Hejlsberg
+  - $1,000,000 siging bonus with Microsoft :thumbsup: 
 # Why
 ---
 <img src="assets/reddit.png" height="180" />
