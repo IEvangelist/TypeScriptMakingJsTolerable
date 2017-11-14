@@ -42,7 +42,7 @@ console.log(b)         // "MDN"
 > JavaScript was intended for 100 to 1,000 lines of code. Now with regularity, applications are 100,000 to 1,000,000 lines of code!
 > -- <cite>Anders Hejlsberg</cite>
 ---
-# JavaScript was simply not designed to scale!!
+## JavaScript was simply not designed to scale!!
 ---?image=assets/only-you-can-prevent-js.jpg&size=contain
 ---?image=assets/demo.png&size=contain
 # Demo
@@ -98,8 +98,8 @@ console.log(b)         // "MDN"
 - See source
 - Post issues
 - Propose new features
+---?image=assets/wat.gif&size=contain
 ---
-
 ## 2. Type System
 - Basic Types
 - Advanced Types
