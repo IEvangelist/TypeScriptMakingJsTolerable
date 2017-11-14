@@ -68,13 +68,22 @@ JavaScript was simply not designed to scale!!
 ---
 
 ## 5. Compatibility
+>JavaScript is standardized through the ECMAScript standards, unfortunately not all browsers in use support all features of newer ECMAScript standards
+
+-ES6 / ECMAScript 2015 Features
+- Backwards compatible all the way to ES3
+
+```json
+target: "es3", "es5", "es2015", "es2016", "es2017", "esnext"
+```
+
 ---
 ## 4. Tooling
 > TypeScript's language services are a first class citizen
 
 - Statement Completion
 - Refactoring
-- Immediate Feedback-Loop
+- Immediate Feedback Loop
 ---?image=assets/tools.png&size=contain
 ---
 
