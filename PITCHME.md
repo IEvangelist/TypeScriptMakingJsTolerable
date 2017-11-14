@@ -71,7 +71,7 @@ console.log(b)         // "MDN"
 ---
 ## 5. Compatibility
 >JavaScript is standardized through the ECMAScript standards, unfortunately not all browsers in use support all features of newer ECMAScript standards
----?image=assets/feature-gap.jpg&size=contain
+---?image=assets/feature-gap.gif&size=contain
 ---
 ---
 ## 5. Compatibility
