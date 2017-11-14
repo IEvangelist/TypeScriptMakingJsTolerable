@@ -3,7 +3,8 @@
 <br/>
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 <br/>
-## <span style="font-weight: bold; color: red">Making JavaScript Tolerable</span>
+<br/>
+# <span style="font-weight: bold; color: orange">Making JavaScript Tolerable</span>
 ---
 # What
 ---
