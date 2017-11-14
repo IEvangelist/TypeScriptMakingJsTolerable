@@ -6,6 +6,7 @@
 ## <span style="font-weight: bold; color: orange">Making JavaScript Tolerable</span>
 ---
 # What
+> What is TypeScript anyways?
 ---
 ## JavaScript
 - Appeared in May, 1995
@@ -33,7 +34,6 @@ console.log(b)         // "MDN"
 ```
 ---?image=assets/new-sheriff.jpg&size=contain
 ---
----
 ## TypeScript
 - October, 2012 (17 years after JavaScript)
 - Anders Hejlsberg
@@ -47,6 +47,7 @@ JavaScript was simply not designed to scale!!
 # Demo
 ---
 # Why
+> Why should I care about TypeScript?
 ---
 <img src="assets/reddit.png" height="180" />
 - Must have types
@@ -68,10 +69,8 @@ JavaScript was simply not designed to scale!!
 
 ## 5. Compatibility
 
----
-
+---?image=assets/tools.png&size=contain
 ## 4. Tooling
-
 ---
 
 ## 3. Open Source
@@ -89,8 +88,11 @@ JavaScript was simply not designed to scale!!
 
 ---
 
-
+---?image=assets/demo.png&size=contain
+# Demo
+---
 # How
+> How can I use TypeScript?
 ---
 ## Interface & Class
 ```typescript
@@ -129,19 +131,6 @@ enum DayOfWeek {
     Friday,
     Saturday
 }
-```
-+++
-```javascript
-var DayOfWeek;
-(function (DayOfWeek) {
-    DayOfWeek[DayOfWeek["Sunday"] = 0] = "Sunday";
-    DayOfWeek[DayOfWeek["Monday"] = 1] = "Monday";
-    DayOfWeek[DayOfWeek["Tuesday"] = 2] = "Tuesday";
-    DayOfWeek[DayOfWeek["Wednesday"] = 3] = "Wednesday";
-    DayOfWeek[DayOfWeek["Thursday"] = 4] = "Thursday";
-    DayOfWeek[DayOfWeek["Friday"] = 5] = "Friday";
-    DayOfWeek[DayOfWeek["Saturday"] = 6] = "Saturday";
-})(DayOfWeek || (DayOfWeek = {}));
 ```
 ---
 # Thank you
