@@ -8,8 +8,11 @@
 # What
 ---
 ## JavaScript
-> JavaScript was originally developer in 10 days by Brenden Eich
+> JavaScript was originally developed in 10 days by Brenden Eich
 ---?image=assets/face-palm.gif&size=auto 90%
+---
+---
+# That explains a lot!
 ---
 ## JavaScript
 - Appeared in May, 1995
