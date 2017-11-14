@@ -43,6 +43,8 @@ console.log(b)         // "MDN"
 > -- <cite>Anders Hejlsberg</cite>
 ---
 # JavaScript was simply not designed to scale!!
+---?image=assets/only-you-can-prevent-js.jpg&size=contain
+---
 ---?image=assets/demo.png&size=contain
 # Demo
 ---
@@ -148,9 +150,11 @@ enum DayOfWeek {
     Saturday
 }
 ```
+---?image=assets/demo.png&size=contain
+# Demo
 ---
 # Thank you
-<img src="assets/me.jpg" height="350" />
+<img src="assets/me.jpg" height="325" />
 <br/>
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 ---
