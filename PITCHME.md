@@ -78,7 +78,9 @@ console.log(b)         // "MDN"
 - Backwards compatible all the way to ES3
 
 ```json
-target: [ "es3", "es5", "es2015", "es2016", "es2017", "esnext" ]
+./tsconfig.json {
+  target: [ "es3", "es5", "es2015", "es2016", "es2017", "esnext" ]
+}
 ```
 ---
 ## 4. Tooling
