@@ -22,7 +22,6 @@
 > -- <cite>Anders Hejlsberg</cite>
 ---
 JavaScript was simply not designed to scale!!
----
 ---?image=assets/demo.png&size=contain
 # Demo
 ---
@@ -60,6 +59,7 @@ class Bar implements Foo {
     }
 }
 ```
+---
 ## Types
 ```typescript
 class Types {
@@ -72,6 +72,7 @@ class Types {
     nonExistent = undefined;
 }
 ```
+---
 ## Enum
 ```typescript
 enum DayOfWeek {
