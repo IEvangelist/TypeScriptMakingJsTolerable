@@ -113,7 +113,7 @@ console.log(b)         // "MDN"
 ## 1. Compilation
 ---?image=assets/demo.png&size=contain
 # Demo
----?image=assets/steady-now.jpg&size=contain
+---?image=assets/stead-now.jpg&size=contain
 ---
 # How
 > How can I use TypeScript?
