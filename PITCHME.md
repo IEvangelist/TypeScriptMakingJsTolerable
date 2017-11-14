@@ -23,7 +23,7 @@
 ---
 JavaScript was simply not designed to scale!!
 ---
----?image=assets/demo.png&size=auto 90%
+---?image=assets/demo.png&size=contain
 # Demo
 ---
 # Why
