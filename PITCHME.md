@@ -123,7 +123,8 @@ enum DayOfWeek {
     Saturday
 }
 ```
----?image=assets/me.png&size=contain
+---
 # Thank you
+<img src="assets/me.jpg" height="350" />
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 ---
