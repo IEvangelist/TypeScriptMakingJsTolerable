@@ -126,5 +126,6 @@ enum DayOfWeek {
 ---
 # Thank you
 <img src="assets/me.jpg" height="350" />
+<br/>
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 ---
