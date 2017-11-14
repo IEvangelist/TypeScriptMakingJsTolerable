@@ -48,7 +48,7 @@ JavaScript was simply not designed to scale!!
 # How
 ---
 ## Interface & Class
-```typepscript
+```typescript
 interface Foo {
     nonsense(): string;
 }
