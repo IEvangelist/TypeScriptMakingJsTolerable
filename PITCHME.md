@@ -110,9 +110,6 @@ console.log(b)         // "MDN"
 ---
 
 ## 1. Compilation
-
----
-
 ---?image=assets/demo.png&size=contain
 # Demo
 ---
