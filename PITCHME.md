@@ -135,7 +135,7 @@ interface Foo {
 
 class Bar implements Foo {
     nonsense(): string {
-        return "Hello, WI .NET User Group!";
+        return "Hello World!";
     }
 }
 ```
