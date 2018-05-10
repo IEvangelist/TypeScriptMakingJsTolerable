@@ -4,3 +4,4 @@ remote-control: true
 remote-control-prevkey: 38
 remote-control-nextkey: 40
 theme-override : assets/styles.css
+footnote : "TypeScript: Making JavaScript Tolerable | davidpine.net | @davidpine7"
