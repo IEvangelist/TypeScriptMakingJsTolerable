@@ -3,7 +3,7 @@
 <br/>
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 <br/>
-## <span style="font-weight: bold; color: orange; text-shadow: 0px 0px 20px #777;">Making JavaScript Tolerable</span>
+## <span style="font-weight: bold; color: orange; text-shadow: 0px 0px 77px black;">Making JavaScript Tolerable</span>
 ---
 # What
 > What is TypeScript anyways?
@@ -14,7 +14,7 @@
 - Worlds 3rd most popular programming language (Java and SQL)
 ---
 ## JavaScript
-> JavaScript was originally developed in 10 days by Brenden Eich
+> JavaScript was originally "prototyped" in 10 days by Brenden Eich
 ---?image=assets/face-palm.gif&size=auto 90%
 ---
 # That explains a lot!
