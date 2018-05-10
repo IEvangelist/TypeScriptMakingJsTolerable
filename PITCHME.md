@@ -16,7 +16,6 @@
 ## JavaScript
 > JavaScript was originally "prototyped" in 10 days by Brenden Eich
 ---?image=assets/face-palm.gif&size=auto 90%
----
 # That explains a lot!
 ---
 ## JavaScript `this`
