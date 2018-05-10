@@ -16,7 +16,7 @@
 ## JavaScript
 > JavaScript was originally "prototyped" in 10 days by Brenden Eich
 ---?image=assets/face-palm.gif&size=auto 90%
-# That explains a lot!
+<h1 class="flash">That explains a lot!</h1>
 ---
 ## JavaScript `this`
 Example from [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
