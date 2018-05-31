@@ -362,7 +362,10 @@ namespace IEvangelist.IndexedTypes {
 
     let name: string = getProperty(person, 'name');
     let age: number = getProperty(person, 'age');
-    //let unknown = getProperty(person, 'unknown');
+
+    // [ts] Error:
+    // argument "unknown" is not assignable to parameter of type "name" | "age".
+    let unknown = getProperty(person, 'unknown');
 }
 
 namespace IEvangelist.MappedTypes {
@@ -386,15 +389,25 @@ namespace IEvangelist.MappedTypes {
     }
 
     // With type aliases, generics and keyof we can do some amazing things
+    // These types already exist in the TypeScript eco-system
+    type Readonly<T> = {
+        readonly [P in keyof T]: T[P];
+    }
 
-    // type Readonly<T> = {
-    //     readonly [P in keyof T]: T[P];
-    // }
-
-    // type Partial<T> = {
-    //     [P in keyof T]?: T[P];
-    // }
+    type Partial<T> = {
+        [P in keyof T]?: T[P];
+    }
 
     var partialPerson: Partial<Person> = { name: 'David' };
     var readonlyPerson: Readonly<Person> = { name: 'David', age: 33 };
 }
+
+
+
+
+
+
+
+
+
+// There be hackers!
