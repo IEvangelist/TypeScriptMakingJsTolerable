@@ -8,7 +8,7 @@
 # What
 > What is @color[deepskyblue](TypeScript) anyways?
 ---
-## But First ... @color[orange](JavaScript)
+## @size[.7em](but first ...) @color[orange](JavaScript)
 - Appeared in May, 1995
 - Dynamic, untyped and interpreted language
 - Worlds 3rd most popular programming language (_Java_ and _SQL_)
@@ -19,7 +19,7 @@
 <br/><br/><br/><br/><br/><br/>
 <h2 class="flash shadow">@color[lime](... that explains a lot)</h2>
 ---
-## @color[orange](JavaScript) `this`
+## @color[orange](JavaScript) @color[#96cbfe](`this`)
 Example from [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 ```javascript
 // In web browsers, the window object is also the global object:
@@ -63,7 +63,7 @@ console.log(b)         // "MDN"
 ---?image=assets/only-you-can-prevent-js.jpg&size=contain
 
 ---?image=assets/demo.png&size=contain
-# Demo
+# @css[soft-shadow](Demo)
 
 ---?image=assets/a-cure-for-the-common.jpg&size=contain
 ---
@@ -85,7 +85,7 @@ console.log(b)         // "MDN"
 
 [Felix Rieseberg](https://slack.engineering/typescript-at-slack-a81307fa288d)
 ---
-# Top 5 @color[darkred](Reasons)
+# Top 5 @color[tomato](Reasons)
 ---
 ## 5. Compatibility
 >@color[orange](JavaScript) is standardized through the @color[limegreen](ECMAScript) standards, unfortunately not all browsers in use support all features of newer @color[limegreen](ECMAScript) standards
@@ -94,11 +94,15 @@ console.log(b)         // "MDN"
 ## 5. Compatibility
 - Latest Features
 - Backwards compatible all the way to @color[limegreen](ES3)
-- `tsconfig.json`
+- @color[#96cbfe](`tsconfig.json`)
 
-```json
+```js
 {
-  target: [ "es3", "es5", "es2015", "es2016", "es2017", "esnext" ]
+  target: [ 
+      'es3', 'es5', 'es6', 
+      'es2015', 'es2016', 'es2017', 'es2018',
+      'esnext'
+    ]
 }
 ```
 ---
@@ -118,17 +122,18 @@ console.log(b)         // "MDN"
 - Propose new features
 ---
 ## 2. Type System
-- Basic Types
-- Advanced Types
+- _Basic_ Types
+- _Advanced_ Types
 - Classes, Interfaces and Abstract classes
 - `Generics<T, TResult>`
 - Type Assertions, Type Guards and Type Aliases
-- Polymorphic `this`
+- Polymorphic @color[#96cbfe](`this`)
 ---?image=assets/mind-blown.gif&size=contain
 ## @css[shadow](@color[magenta](1. Compilation))
 ---?image=assets/demo.png&size=contain
 
-# Demo
+# @css[soft-shadow](Demo)
+### <a href="https://www.typescriptlang.org/play/index.html" target="_blank">@css[soft-shadow](@color[deepskyblue](TypeScript) Playground @fa[external-link])</a>
 ---?image=assets/stead-now.jpg&size=contain
 
 ---
@@ -136,13 +141,13 @@ console.log(b)         // "MDN"
 > How can I use @color[deepskyblue](TypeScript)?
 
 ---?code=source/basic.ts&lang=ts
-@[1-3](LOL: Interfaces @fa[meh-o])
-@[5-9](WTF: Implementations @fa[smile-o])
-@[11-19](OMG: Basic Types @fa[frown-o])
-@[21-30](TIL: Enums @fa[thumbs-o-up])
+@[1-3](LOL: Interfaces @css[shaking](@fa[meh-o]))
+@[5-9](WTF: Implementations @css[nodding](@fa[smile-o]))
+@[11-19](OMG: Basic Types @css[nodding](@fa[smile-o]))
+@[21-30](TIL: Enums @css[waving](@fa[thumbs-o-up]))
 
 ---?image=assets/demo.png&size=contain
-# Demo
+# @css[soft-shadow](Demo)
 
 ---
 # File @color[tomato](Extensions)
