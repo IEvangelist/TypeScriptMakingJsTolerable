@@ -11,3 +11,163 @@
    from { opacity: 1; }
    to { opacity: 0; }
 }
+
+.soft-shadow {
+    text-shadow: 0 0 75px black;
+}
+
+.shadow {
+    text-shadow: 0 0 15px black;
+}
+
+.reveal blockquote {
+    border-radius: 17px;
+    padding: 17px;
+    background: rgba(255,255,255,0.17);
+    width: 85%;
+}
+
+p > span.code-presenting-annotation.fragment.current-only.visible.current-fragment {
+    text-transform: uppercase !important;
+    font-size: 80% !important;
+}
+
+div.slide-background.present:not([style*='binary-strings-black.jpg']) {
+    opacity: 1 !important;
+}
+
+.reveal pre {
+    width: 100%;
+    margin: 0;
+}
+
+.reveal pre code {
+    font-size: 1.2em;
+    line-height: 1.2;
+    max-height: 58vh !important;
+    opacity: 0.90;
+    border-radius: 10px;
+    overflow: hidden !important;
+  }
+  
+  @media (device-width: 100vw) and (device-height: 100vh) {
+    .reveal pre code {
+      max-height: 52vh !important;
+    }
+  }
+  
+  .reveal .slides section .code-presenting-annotation {
+    color: white;
+    background: black;
+    padding: 1px 15px;
+    border-radius: 15px;
+    opacity: 0.75 !important;
+    font-size: 50% !important;
+  }
+  
+  .reveal p span.slide-title {
+    color: white;
+    background: black;
+    padding: 4px 15px;
+    opacity: 0.75 !important;
+    border-radius: 15px;
+    display: none;
+  }
+  .reveal div.left {
+      float: left;
+      z-index: -10;
+      width: 45%;
+  }
+  
+  .reveal div.right {
+      float: right;
+      z-index: -10;
+      width: 55%;
+  }
+  
+  .reveal a.pro-link {
+      color: white;
+      font-size: 0.5em;
+  }
+  
+  #title-footer {
+    color: white;
+    background: black;
+    opacity: 0.65 !important;
+  }
+  
+  #title-footer p.footer-hard {
+      color: #b6b6b6;
+  }
+  
+  #title-footer p.footer-fade {
+    color: #b6b6b6;
+  }
+  
+  #gp-logo img {
+    max-height: 2em;
+    max-width: none;
+  }
+  
+  .white {
+    color: white;
+  }
+  
+  .gp-tip { font-size : 1.5em; }
+  
+  .gp-contact { font-size : 1.4em; }
+  
+  .gp-download { margin-left: 10px; }
+  
+  .waving {
+    animation: wave 450ms infinite;
+    transform-origin: bottom;
+  }
+  
+  @-webkit-keyframes wave {
+    0% {
+      -webkit-transform:rotate(5deg);
+    }
+    50% {
+      -webkit-transform:rotate(-5deg);
+    }
+    100% {
+      -webkit-transform:rotate(5deg);
+    }
+  }
+  
+  @-moz-keyframes wave {
+    0% {
+      -moz-transform:rotate(5deg);
+    }
+    50% {
+      -moz-transform:rotate(-5deg);
+    }
+    100% {
+      -moz-transform:rotate(5deg);
+    }
+  }
+  
+  @-ms-keyframes wave {
+    0% {
+      -ms-transform:rotate(5deg);
+    }
+    50% {
+      -ms-transform:rotate(-5deg);
+    }
+    100% {
+      -ms-transform:rotate(5deg);
+    }
+  }
+  
+  @keyframes wave {
+    0% {
+      transform:rotate(5deg);
+    }
+    50% {
+      transform:rotate(-5deg);
+    }
+    100% {
+      transform:rotate(5deg);
+    }
+  }

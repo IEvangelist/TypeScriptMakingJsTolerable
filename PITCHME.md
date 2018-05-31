@@ -3,22 +3,23 @@
 <br/>
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 <br/>
-## <span style="font-weight: bold; color: orange; text-shadow: 0px 0px 77px black;">Making JavaScript Tolerable</span>
+### @size[1.1em](@css[soft-shadow](Making @color[orange](JavaScript) Tolerable))
 ---
 # What
-> What is TypeScript anyways?
+> What is @color[deepskyblue](TypeScript) anyways?
 ---
-## JavaScript
+## But First ... @color[orange](JavaScript)
 - Appeared in May, 1995
-- Dynamic, untyped and interpreted langauge
-- Worlds 3rd most popular programming language (Java and SQL)
+- Dynamic, untyped and interpreted language
+- Worlds 3rd most popular programming language (_Java_ and _SQL_)
 ---
-## JavaScript
-> JavaScript was originally "prototyped" in 10 days by Brenden Eich
+## @color[orange](JavaScript)
+> @color[orange](JavaScript) was originally "prototyped" in 10 days by Brenden Eich
 ---?image=assets/face-palm.gif&size=auto 90%
-<h1 class="flash">That explains a lot!</h1>
+<br/><br/><br/><br/><br/><br/>
+<h2 class="flash shadow">@color[lime](... that explains a lot)</h2>
 ---
-## JavaScript `this`
+## @color[orange](JavaScript) `this`
 Example from [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 ```javascript
 // In web browsers, the window object is also the global object:
@@ -31,44 +32,51 @@ this.b = "MDN";
 console.log(window.b)  // "MDN"
 console.log(b)         // "MDN"
 ```
+
+---
+## @color[orange](JavaScript) Books
+<img src="assets/good-parts.jpg" height="450" />
+
 ---?image=assets/new-sheriff.jpg&size=contain
 ---
-## TypeScript
-- October, 2012 (17 years after JavaScript)
-- A superset of JavaScript
-  - Any valid JS is also valid TS
+## @color[deepskyblue](TypeScript)
+- October, 2012 (17 years after @color[orange](JavaScript))
+- A superset of @color[orange](JavaScript)
+  - Any valid @color[orange](JavaScript) is also valid @color[deepskyblue](TypeScript)
 - Anders Hejlsberg
-  - $1,000,000 signing bonus with Microsoft
+  - @color[magenta]($1,000,000) signing bonus with @color[gray](Microsoft)
 ---
+
 > JavaScript was intended for 100 to 1,000 lines of code. Now with regularity, applications are 100,000 to 1,000,000 lines of code!
-> -- <cite>Anders Hejlsberg</cite>
+
+[Anders Hejlsberg](https://twitter.com/ahejlsberg)
 ---
-## TypeScript
-- TypeScript files have the *.ts file extension
-- Backwards compatibility to ECMAScript 3
+## @color[deepskyblue](TypeScript)
+- @color[deepskyblue](TypeScript) files have the `*.ts` file extension
+- Backwards compatibility to @color[limegreen](ECMAScript 3)
 - Any browser, any host, and OS
-- Modern (Node.js and Visual Studio/Code Tooling)
+- Modern (__Node.js__ and __VS/Code__ Tooling)
 - Open Source
-- Supports latest JavaScript features
+- Supports latest @color[orange](JavaScript) features
 ---
-## JavaScript was simply not designed to scale!!
+## @color[orange](JavaScript) was simply not designed to scale!
 ---?image=assets/only-you-can-prevent-js.jpg&size=contain
+
 ---?image=assets/demo.png&size=contain
 # Demo
+
 ---?image=assets/a-cure-for-the-common.jpg&size=contain
 ---
 # Why
-> Why should I care about TypeScript?
+> Why should I care about @color[deepskyblue](TypeScript)?
 ---
 <img src="assets/reddit.png" height="180" />
-- Must have types
-- Powers major production apps
-- Our devs should be able to onboard fairly quickly
+> Must have types, power major production apps and our devs should be able to onboard fairly quickly
 
 [Niranjan Ramadas](https://redditblog.com/2017/06/30/why-we-chose-typescript/)
 ---
 <img src="assets/angular.png" height="180" />
-> TypeScript Makes Code Easier to Read and Understand 
+> @color[deepskyblue](TypeScript) Makes Code Easier to Read and Understand 
  
 [Victor Savkin](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)
 ---
@@ -77,15 +85,15 @@ console.log(b)         // "MDN"
 
 [Felix Rieseberg](https://slack.engineering/typescript-at-slack-a81307fa288d)
 ---
-# Top 5 Reasons
+# Top 5 @color[darkred](Reasons)
 ---
 ## 5. Compatibility
->JavaScript is standardized through the ECMAScript standards, unfortunately not all browsers in use support all features of newer ECMAScript standards
+>@color[orange](JavaScript) is standardized through the @color[limegreen](ECMAScript) standards, unfortunately not all browsers in use support all features of newer @color[limegreen](ECMAScript) standards
 ---?image=assets/feature-gap.gif&size=contain
 ---
 ## 5. Compatibility
 - Latest Features
-- Backwards compatible all the way to ES3
+- Backwards compatible all the way to @color[limegreen](ES3)
 - `tsconfig.json`
 
 ```json
@@ -95,11 +103,11 @@ console.log(b)         // "MDN"
 ```
 ---
 ## 4. Tooling
-> TypeScript's language services are a first class citizen
+> @color[deepskyblue](TypeScript's) language services are a first class citizen
 
 - Statement Completion
 - Refactoring
-- Immediate Feedback Loop
+- __Immediate__ Feedback Loop
 ---?image=assets/tools.png&size=contain
 ---
 
@@ -116,62 +124,34 @@ console.log(b)         // "MDN"
 - `Generics<T, TResult>`
 - Type Assertions, Type Guards and Type Aliases
 - Polymorphic `this`
----
-
-## 1. Compilation
+---?image=assets/mind-blown.gif&size=contain
+## @css[shadow](@color[magenta](1. Compilation))
 ---?image=assets/demo.png&size=contain
+
 # Demo
 ---?image=assets/stead-now.jpg&size=contain
+
 ---
 # How
-> How can I use TypeScript?
----
-## Interface & Class
-```typescript
-interface Foo {
-    nonsense(): string;
-}
+> How can I use @color[deepskyblue](TypeScript)?
 
-class Bar implements Foo {
-    nonsense(): string {
-        return "Hello World!";
-    }
-}
-```
----
-## Types
-```typescript
-class Types {
-    trueOrFalse: boolean = true;
-    message: string = "Hi there";
-    value: number = 7;
-    tuple: [string, Date] = ["David", new Date(1984, 7, 7)];
-    children: Types[] = [];
-    nothing = null;
-    nonExistent = undefined;
-}
-```
----
-## Enum
-```typescript
-enum DayOfWeek {
-    Sunday,
-    Monday,
-    Tuesday,
-    Wednesday,
-    Thursday,
-    Friday,
-    Saturday
-}
-```
+---?code=source/basic.ts&lang=ts
+@[1-3](LOL: Interfaces @fa[meh-o])
+@[5-9](WTF: Implementations @fa[smile-o])
+@[11-19](OMG: Basic Types @fa[frown-o])
+@[21-30](TIL: Enums @fa[thumbs-o-up])
+
 ---?image=assets/demo.png&size=contain
 # Demo
+
 ---
-# File Extensions
+# File @color[tomato](Extensions)
 ---?image=assets/file-extensions.png&size=contain
+
 ---
 # Adoption
 ---?image=assets/adoption.png&size=contain
+
 ---
 # Thank you
 <img src="assets/me.jpg" height="325" />
