@@ -171,7 +171,7 @@ console.log(b)         // "MDN"
 
 ---?image=assets/demo.png&size=contain
 # @css[soft-shadow](Demo)
-### @css[soft-shadow](Advanced @color[#007acc](Types) - Code Walk)
+### @css[soft-shadow](Advanced @color[#007acc](Types)  @fa[code])
 
 ---
 # File @fa[file-code-o] @color[tomato](Extensions)
