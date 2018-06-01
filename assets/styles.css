@@ -2,6 +2,10 @@
     text-shadow: 0 0 75px black;
 }
 
+.blue-glow {
+    text-shadow: 0 0 25px #96cbfe;
+}
+
 .shadow {
     text-shadow: 0 0 15px black;
 }
@@ -13,6 +17,12 @@
     width: 85%;
 }
 
+.reveal blockquote p i.fa-quote-left {
+    float: left;
+    margin-left: -37px;
+    font-size: 77px;
+}
+
 p > span.code-presenting-annotation.fragment.current-only.visible.current-fragment {
     text-transform: uppercase !important;
     font-size: 80% !important;
@@ -20,6 +30,9 @@ p > span.code-presenting-annotation.fragment.current-only.visible.current-fragme
 
 div.slide-background.present:not([style*='binary-strings-black.jpg']) {
     opacity: 1 !important;
+}
+div.slide-background.present[style*='demo.png'] {
+    opacity: .3 !important;
 }
 
 .reveal pre {

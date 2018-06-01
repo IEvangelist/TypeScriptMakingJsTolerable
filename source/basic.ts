@@ -4,7 +4,7 @@ export interface Messenger {
 
 export class HelloConf implements Messenger {
     getMessage(): string {
-        return "Hello, Syntax Con - 2018!";
+        return "Hello, #DeveloperCommunity!";
     }
 }
 
@@ -26,6 +26,12 @@ export enum DayOfWeek {
     Thursday,
     Friday,
     Saturday
+}
+
+function notHappening(): never {
+    while(true) {
+        // We are laughing!
+    }
 }
 
 
