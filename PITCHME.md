@@ -81,7 +81,7 @@ console.log(b)         // "MDN"
 
 ---?image=assets/demo.png&size=contain
 # @css[soft-shadow](Demo)
-## @css[soft-shadow](@color[#007acc](Visual Studio Code) @fa[code])
+## @css[soft-shadow](From @color[#f7df1e](__JavaScript__) to @color[#007acc](__TypeScript__)  @fa[code])
 
 ---?image=assets/a-cure-for-the-common.jpg&size=contain
 ---
@@ -172,6 +172,8 @@ console.log(b)         // "MDN"
 # @css[blue-glow](How?)
 > How can I @color[#007acc](__TypeScript__)?
 
+---
+## @color[gray](@fa[search]) Basic @color[#007acc](__Types__)
 ---?code=source/basic.ts&lang=ts
 @[1-3](LOL: Interfaces @css[shaking](@fa[meh-o]))
 @[5-9](WTF: Implementations @css[nodding](@fa[smile-o]))
