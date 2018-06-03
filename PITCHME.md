@@ -106,7 +106,7 @@ console.log(b)         // "MDN"
 # Top 5 @color[tomato](Reasons)
 ---
 ## 5. Compatibility (1 / 2)
-> @color[#f7df1e](__JavaScript__) is standardized through the @color[limegreen](ECMAScript) standards, unfortunately not all browsers in use support all features of newer @color[limegreen](ECMAScript) standards
+> @color[#f7df1e](__JavaScript__) is standardized through the @color[limegreen](ECMAScript). Not all browsers support all features of newer @color[limegreen](ECMAScript) standards.
 ---?image=assets/feature-gap.gif&size=contain
 ---
 ## 5. Compatibility (2 / 2)
@@ -131,10 +131,11 @@ console.log(b)         // "MDN"
 > @color[#007acc](__TypeScript's__) language services are a first class citizen
 
 @ul
-- Statement Completion
+- @css[ellipsis](Statement Completion)
 - Enterprise Refactoring
-- __Immediate__ Feedback Loop @fa[refresh,spin]
+- __Immediate__ Feedback Loop @color[darkgreen](@fa[refresh fa-spin fast])
 @ulend
+
 ---?image=assets/tools.png&size=contain
 ---
 
@@ -173,13 +174,13 @@ console.log(b)         // "MDN"
 > How can I @color[#007acc](__TypeScript__)?
 
 ---
-## @color[gray](@fa[search]) Basic @color[#007acc](__Types__)
+## @color[gray](@fa[eye]) Basic @color[#007acc](__Types__)
 ---?code=source/basic.ts&lang=ts
 @[1-3](LOL: Interfaces @css[shaking](@fa[meh-o]))
 @[5-9](WTF: Implementations @css[nodding](@fa[smile-o]))
 @[11-19](OMG: Basic Types @css[nodding](@fa[smile-o]))
 @[21-30](TIL: Enums @css[waving](@fa[thumbs-o-up]))
-@[31-35](TFW: You Mess With Your Friends @css[nodding](@fa[smile-o]))
+@[31-36](TFW: You Mess With Your Friends @css[nodding](@fa[smile-o]))
 
 ---
 # File @fa[file-code-o] @color[tomato](Extensions)
@@ -194,7 +195,8 @@ console.log(b)         // "MDN"
 ---?image=assets/adoption.png&size=contain
 
 ---
-# Thank you
-<img src="assets/me.jpg" height="325" />
+## Thank you
+### [bit.ly/TypeScriptSlides](http://bit.ly/TypeScriptSlides)
+<img src="assets/me.jpg" height="300" />
 <br/>
 [@davidpine7 @fa[external-link]](https://twitter.com/davidpine7) | [davidpine.net @fa[external-link]](http://davidpine.net/)

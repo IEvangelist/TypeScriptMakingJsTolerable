@@ -19,17 +19,18 @@ export class Types {
 }
 
 export enum DayOfWeek {
-    Sunday,
+    Sunday,     // Sunday's aren't bad
     Monday,
     Tuesday,
     Wednesday,
     Thursday,
-    Friday,
-    Saturday
+    Friday,     // I love Friday's
+    Saturday    // And Saturday's too
 }
 
 function notHappening(): never {
-    while(true) {
+    while (true) {
+        // (っ◔◡◔)っ
         // We are laughing!
     }
 }
