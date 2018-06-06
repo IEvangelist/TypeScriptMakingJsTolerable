@@ -1,7 +1,7 @@
 ---?image=assets/ts-main.png&size=contain
 <br/>
 <br/>
-[@davidpine7 @fa[external-link]](https://twitter.com/davidpine7) | [davidpine.net @fa[external-link]](http://davidpine.net/)
+[@davidpine7 @fa[twitter]](https://twitter.com/davidpine7) | [davidpine.net @fa[globe]](http://davidpine.net/)
 
 <br/>
 
@@ -199,4 +199,4 @@ console.log(b)         // "MDN"
 ### [bit.ly/TypeScriptSlides](http://bit.ly/TypeScriptSlides)
 <img src="assets/me.jpg" height="300" />
 <br/>
-[@davidpine7 @fa[external-link]](https://twitter.com/davidpine7) | [davidpine.net @fa[external-link]](http://davidpine.net/)
+[@davidpine7 @fa[twitter]](https://twitter.com/davidpine7) | [davidpine.net @fa[globe]](http://davidpine.net/)
