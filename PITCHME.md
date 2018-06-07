@@ -7,6 +7,10 @@
 
 ### @size[1.1em](@css[soft-shadow](Making @color[#f7df1e](JavaScript) Tolerable))
 ---
+# Thank You
+### Sponsors & @color[purple](SyntaxCon)
+### @color[red](@fa[heart]) #DeveloperCommunity @color[lightblue](@fa[twitter])
+---
 # @css[blue-glow](What)
 > What is @color[#007acc](__TypeScript__) anyways?
 ---
