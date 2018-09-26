@@ -59,7 +59,7 @@ div.slide-background.present[style*='demo.png'] {
 .reveal pre code {
     font-size: 1.2em;
     line-height: 1.2;
-    max-height: 62vh !important;
+    max-height: 55vh !important;
     opacity: 0.90;
     border-radius: 10px;
     overflow: hidden !important;
