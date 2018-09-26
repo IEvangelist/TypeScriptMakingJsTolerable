@@ -10,6 +10,21 @@
     text-shadow: 0 0 15px black;
 }
 
+.orange-border {  
+  text-shadow: -2px 0 orange, 0 2px orange, 2px 0 orange, 0 -2px orange;
+}
+
+.twitter {
+  color: #0084b4;
+}
+
+img.me {
+  border: none !important;
+  box-shadow: none !important;
+  background: none  !important;
+  filter: drop-shadow(0px 0px 5px white);
+}
+
 .reveal blockquote {
     border-radius: 17px;
     padding: 17px;
@@ -28,9 +43,10 @@ p > span.code-presenting-annotation.fragment.current-only.visible.current-fragme
     font-size: 80% !important;
 }
 
-div.slide-background.present:not([style*='binary-strings-black.jpg']) {
-    opacity: 1 !important;
+html.bg-img-opacity-15 .slide-background.present:not([data-background-hash*='binary-strings-black.jpg']) {
+  opacity: 1 !important;
 }
+
 div.slide-background.present[style*='demo.png'] {
     opacity: .3 !important;
 }
@@ -43,7 +59,7 @@ div.slide-background.present[style*='demo.png'] {
 .reveal pre code {
     font-size: 1.2em;
     line-height: 1.2;
-    max-height: 50vh !important;
+    max-height: 62vh !important;
     opacity: 0.90;
     border-radius: 10px;
     overflow: hidden !important;
@@ -56,8 +72,8 @@ div.slide-background.present[style*='demo.png'] {
   }
   
   .reveal .slides section .code-presenting-annotation {
-    color: white;
-    background: black;
+    color: #333;
+    background: white;
     padding: 1px 15px;
     border-radius: 15px;
     opacity: 0.75 !important;

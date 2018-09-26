@@ -29,7 +29,7 @@ namespace IEvangelist.Intersections {
         }
     }
     var david = extend(new Person("David Pine"), new ConsoleLogger());
-    
+
     var name = david.name;
     david.log(name);
 }
@@ -110,7 +110,6 @@ namespace IEvangelist.Unions {
     // Both calls to 'swim' and 'fly' are now okay.
 
     if (isBird(pet)) {
-        
         pet.fly(); // Cannot swim
     }
     else {
@@ -228,7 +227,7 @@ namespace IEvangelist.TypeAliases {
     }
 
     let people: LinkedList<Person>;
-    var n1 = people.name;
+    var n1 = people.name; 
     var n2 = people.next.name;
     var n3 = people.next.next.name;
     var n4 = people.next.next.next.name;
@@ -250,7 +249,7 @@ namespace IEvangelist.StringLiterals {
     
     let button = new UIElement();
     button.animate(0, 0, "ease-in");
-    //button.animate(0, 0, "uneasy"); // error: "uneasy" is not allowed here
+    //button.animate(0, 0, "I love beer"); // error: "uneasy" is not allowed here
 }
 
 namespace IEvangelist.DiscriminatedUnion {

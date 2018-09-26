@@ -12,7 +12,7 @@ export class Types {
     trueOrFalse: boolean = true;
     message: string = "Hi there";
     value: number = 7;
-    tuple: [string, number] = ["David", 33];
+    tuple: [string, number] = ["David", 34];
     children: Types[] = [];
     date: Date = new Date(1984, 7, 7);
     nothingOrNonExistent = (null || undefined);

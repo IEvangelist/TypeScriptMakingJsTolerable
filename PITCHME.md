@@ -1,15 +1,13 @@
 ---?image=assets/ts-main.png&size=contain
-<br/>
-<br/>
-[@davidpine7 @fa[twitter]](https://twitter.com/davidpine7) | [davidpine.net @fa[globe]](http://davidpine.net/)
+<br/><br/><br/>
+[@davidpine7 @css[twitter](@fa[twitter])](https://twitter.com/davidpine7) | [davidpine.net @color[red](@fa[globe])](http://davidpine.net/)
 
 <br/>
 
 ### @size[1.1em](@css[soft-shadow](Making @color[#f7df1e](JavaScript) Tolerable))
 ---
 # Thank You
-### Sponsors & @color[purple](SyntaxCon)
-### @color[red](@fa[heart]) #DeveloperCommunity @color[lightblue](@fa[twitter])
+### @color[red](@fa[heart]) #DeveloperCommunity @css[twitter](@fa[twitter])
 ---
 # @css[blue-glow](What)
 > What is @color[#007acc](__TypeScript__) anyways?
@@ -26,7 +24,7 @@
 > @color[#f7df1e](__JavaScript__) was originally "prototyped" in 10 days by Brenden Eich
 ---?image=assets/face-palm.gif&size=auto 90%
 <br/><br/><br/><br/><br/><br/>
-<h2 class="flash shadow">@color[fuchsia ](... that explains a lot)</h2>
+<h2 class="flash shadow">@css[orange-border](@color[purple](... that explains a lot))</h2>
 
 ---
 
@@ -80,11 +78,12 @@ console.log(b)         // "MDN"
 - Supports latest @color[#f7df1e](__JavaScript__) features
 @ulend
 ---
-## @color[#f7df1e](JavaScript) was simply not designed to scale!
+## @color[#f7df1e](JavaScript) was simply <strong>@color[red](not)</strong> designed to scale!
 ---?image=assets/only-you-can-prevent-js.jpg&size=contain
 
 ---?image=assets/demo.png&size=contain
 # @css[soft-shadow](Demo)
+<br/><br/><br/>
 ## @css[soft-shadow](From @color[#f7df1e](__JavaScript__) to @color[#007acc](__TypeScript__)  @fa[code])
 
 ---?image=assets/a-cure-for-the-common.jpg&size=contain
@@ -160,7 +159,7 @@ console.log(b)         // "MDN"
 - Type Assertions, Type Guards and Type Aliases
 - Polymorphic @color[#96cbfe](`this`)
 @ulend
----?image=assets/mind-blown.gif&size=contain
+---?image=assets/mind-blown.webp&size=contain
 ## @css[shadow](@color[magenta](1. Compilation))
 
 ---
@@ -169,8 +168,12 @@ console.log(b)         // "MDN"
 
 ---?image=assets/demo.png&size=contain
 
-# @css[soft-shadow](Demo)
+@snap[north]
+<h1>@css[soft-shadow](Demo)</h1>
+@snapend
+<br/><br/><br/><br/><br/><br/>
 ## <a href="https://www.typescriptlang.org/play/index.html" target="_blank">@css[soft-shadow](@color[#007acc](TypeScript)<br/>Playground @fa[external-link])</a>
+
 ---?image=assets/stead-now.jpg&size=contain
 
 ---
@@ -191,16 +194,21 @@ console.log(b)         // "MDN"
 ---?image=assets/file-extensions.png&size=contain
 
 ---?image=assets/demo.png&size=contain
-# @css[soft-shadow](Demo)
-## @css[soft-shadow](Advanced @color[#007acc](Types)  @fa[code])
+@snap[north]
+<h1>@css[soft-shadow](Demo)</h1>
+@snapend
+
+@snap[south]
+<h2>@css[soft-shadow](Advanced @color[#007acc](Types)  @fa[code])</h2>
+@snapend
 
 ---
 # Adoption @color[#cb3837](@fa[cloud-download])
 ---?image=assets/adoption.png&size=contain
 
 ---
-## Thank you
+### Thank you
 ### [bit.ly/TypeScriptSlides](http://bit.ly/TypeScriptSlides)
-<img src="assets/me.jpg" height="300" />
+<img class="me" src="assets/me.png" height="350" />
 <br/>
-[@davidpine7 @fa[twitter]](https://twitter.com/davidpine7) | [davidpine.net @fa[globe]](http://davidpine.net/)
+[@davidpine7 @css[twitter](@fa[twitter])](https://twitter.com/davidpine7) | [davidpine.net @color[red](@fa[globe])](http://davidpine.net/)
